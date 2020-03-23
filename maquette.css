@@ -1,0 +1,167 @@
+html
+{
+	color: grey;
+}
+	#logo{
+		padding-left: 180px;
+		padding-top: 20px;
+	}
+	.navbar_hotel{
+		top: 50px;
+		left: 25%;
+		position: absolute;
+		font-family: Droid-Sans;
+	}
+	.navbar_restaurant{
+		top: 50px;
+		left: 35%;
+		position: absolute;
+	}
+	.navbar_services{
+		top: 50px;
+		left: 48%;
+		position: absolute;
+	}
+	.navbar_activites{
+		top: 50px;
+		left: 58%;
+		position: absolute;
+	}
+	.navbar_plus{
+		top: 50px;
+		left: 68%;
+		position: absolute;
+	}
+	.hotel{
+		left:27%;
+		top:45px;
+		position: absolute;
+		background-color: red;
+		height: 7px;
+		width: 145px;
+		color: red;
+	}
+	.restaurants{
+		left: 37%;
+		top:45px;
+		position: absolute;
+		background-color: orange;
+		height: 7px;
+		width: 185px;
+	}
+	.services{
+		left: 50%;
+		top:45px;
+		position: absolute;
+		background-color: green;
+		height: 7px;
+		width: 145px;
+	}
+	.activites{
+		left: 60%;
+		top:45px;
+		position: absolute;
+		background-color: blue;
+		height: 7px;
+		width: 145px;
+	}
+	.plus{
+		left: 70%;
+		top:45px;
+		position: absolute;
+		background-color: purple;
+		height: 7px;
+		width: 155px;
+	}
+	.nav1{
+	left: 27%;
+	top: 0px;
+	position: absolute;
+	}
+	.nav2{
+		left: 37%;
+	top: 0px;
+	position: absolute;
+	}
+	.nav3{
+		left: 50%;
+	top: 0px;
+	position: absolute;
+	}
+	.nav4{
+		left: 60%;
+	top: 0px;
+	position: absolute;
+	}
+	.nav5{
+		left: 70%;
+	top: 0px;
+	position: absolute;
+	}
+	.video{
+		left: 30%;
+		top:200px;
+		position: absolute;
+	}
+	h4{
+		top: 560px;
+		left:28%;
+		position: absolute;
+	}
+	.golf_text{
+		border: grey 1px solid;
+		position: absolute;
+		left: 15%;
+		right : 70%;
+		top: 650px;
+	}
+	.accro_text{
+		position: absolute;
+		left: 35%;
+		top :650px;
+	}
+
+	.fastfood_text{
+		position: absolute;
+		left: 35%;
+		top: 1000px;
+	}
+	.commentaire{
+		position: absolute;
+		left: 60%;
+		top: 650px;
+	}
+
+	td{
+		border: grey 1px solid;
+		padding: 8px 8px 6px 8px;
+	}
+	.titleorange {
+		color: orange;
+		font-family:Oswald;
+		font-size: 2em;
+
+	}
+
+	a{
+		text-decoration: none;
+		color: grey;
+	}
+
+	ul.contact {
+		list-style-type: none;
+
+	}
+	p.publie {
+		font-style: italic;
+		color: grey;
+	}
+
+	.contact{
+		position: absolute;
+		right:200%;
+		list-style-type: none;
+	}
+	footer{
+		background-image: url("assets/misc/transparent.png");color: red;
+	}
